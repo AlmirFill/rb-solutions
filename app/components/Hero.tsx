@@ -4,15 +4,15 @@ export default function Hero() {
   return (
     <section className="bg-gray-100 py-16 px-4 flex flex-col-reverse md:flex-row items-center gap-8">
       <div className="md:w-1/2 text-center md:text-left">
-        <h1 className="text-4xl font-bold mb-4">Brete de Contenção Reforçado</h1>
+        <h1 className="text-4xl font-bold mb-4">Brete para contenção e pesagem bovina</h1>
         <p className="mb-6 text-lg text-gray-700">
-          Manejo seguro, pesagem digital e máxima resistência para o dia a dia no campo.
+          Facilidade no manejo, compatibilidade com sistema de barras, novo modelo de pescoceira diminuindo as chances do animal escapa da pescoceira,
         </p>
         <a
-          href="https://wa.me/559181111342"
+          href="https://wa.me/559181111342?text=Ola+vim+pelo+site+e+tenho+interesse+no+brete."
           className="bg-green-600 text-white px-6 py-3 rounded shadow hover:bg-green-700 transition"
         >
-          Fale conosco no WhatsApp
+          Fale com o vendedor
         </a>
       </div>
       <div className="md:w-1/2">

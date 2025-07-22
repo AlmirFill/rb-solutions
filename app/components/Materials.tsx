@@ -5,8 +5,8 @@ export default function Materials() {
       <ul className="max-w-3xl mx-auto space-y-4 text-lg">
         <li>✅ Madeiras nobres: Cumaru, Roxinho, Sucupira</li>
         <li>✅ Parafusos galvanizados e porcas travantes</li>
-        <li>✅ Pintura automotiva anticorrosiva</li>
-        <li>✅ Estrutura em ferro reforçado</li>
+        <li>✅ Pintura automotiva</li>
+        <li>✅ Estrutura em madeira e ferro reforçado</li>
       </ul>
     </section>
   )
