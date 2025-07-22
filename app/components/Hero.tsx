@@ -9,7 +9,7 @@ export default function Hero() {
           Manejo seguro, pesagem digital e máxima resistência para o dia a dia no campo.
         </p>
         <a
-          href="https://wa.me/55SEUNUMERO"
+          href="https://wa.me/559181111342"
           className="bg-green-600 text-white px-6 py-3 rounded shadow hover:bg-green-700 transition"
         >
           Fale conosco no WhatsApp
