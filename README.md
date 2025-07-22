@@ -24,4 +24,4 @@ O layout foi pensado para se adaptar bem a celulares, tablets e desktops, com im
 ## 💻 Desenvolvido por
 
 **Almir Gomes da Silva**  
-[LinkedIn](https://www.linkedin.com/in/seu-usuario) • [Instagram](https://instagram.com/seu_usuario) • [Portfólio](https://seusite.com)
+[Instagram](https://instagram.com/almirgfill)
